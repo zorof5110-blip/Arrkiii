@@ -5,7 +5,7 @@ module.exports = {
     "MTM5OTE4Njk2Nzk2NjUxOTMyNg.GLDefb.-o",
   clientId: "1495166784528060568",
   prefix: ">",
-  ownerID: "1379140565589033040",
+  ownerID: "nj",
   SpotifyID: "85aab1d51a174aad9eed6d7989f530e6",
   SpotifySecret: "b2ad05aa725e434c88776a1be8eab6c2",
   mongourl:
