@@ -12,7 +12,7 @@ client.connect();
 client.Jsk = new Dokdo.Client(client, {
   aliases: ["dokdo", "dok", "jsk"],
   prefix: "?",
-  owners: ["1379140565589033040"],
+  owners: [""],
 });
 
 process.env.SHELL = process.platform === "win32" ? "powershell" : "bash";
