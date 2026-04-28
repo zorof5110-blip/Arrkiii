@@ -1,11 +1,11 @@
 /** @format */
 
 module.exports = {
-  token:
+  MTQ5NTE2Njc4NDUyODA2MDU2OA.Grjd8M.ue3HR1Psd5CuHPYy1I3JxILkG0Z96HvbCOzJ7g
     "MTM5OTE4Njk2Nzk2NjUxOTMyNg.GLDefb.-o",
-  clientId: "1399186967966519326",
+  clientId: "1495166784528060568",
   prefix: ">",
-  ownerID: "870179991462236170",
+  ownerID: "1379140565589033040",
   SpotifyID: "85aab1d51a174aad9eed6d7989f530e6",
   SpotifySecret: "b2ad05aa725e434c88776a1be8eab6c2",
   mongourl:
